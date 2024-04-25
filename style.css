@@ -1,1 +1,27 @@
+{ 
 
+    margin: 0;
+    padding :0;
+      
+}
+ .cabeçalho{
+    font-family: monospace;
+    background-color: black;
+ }
+
+ .titulo{
+    font-size: 30px;
+    text-align: center;
+    color: white;
+     
+ }
+  
+ .texto{
+    text-align: center;
+
+ }
+.imagem{
+    display: block;
+    margin: auto;
+     
+}
